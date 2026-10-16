@@ -1,0 +1,26 @@
+component_id,name,role,smiles_or_unknown,structure_reference,used_for_training,notes
+PU1951-PPG2000,polypropylene glycol PPG-2000,soft segment,*OC(C)CO*,Section 2.1 Materials,false,Representative propylene oxide repeat unit; exact Mn is 2000 g/mol.
+PU1951-HDI,hexamethylene diisocyanate HDI,isocyanate,O=C=NCCCCCCN=C=O,Section 2.1 Materials,false,Commercial diisocyanate.
+PU1951-TDI,toluene-2,4-diisocyanate TDI,isocyanate,Cc1ccc(N=C=O)c(C)c1N=C=O,Section 2.1 Materials,false,Commercial diisocyanate.
+PU1951-MDI,4,4'-methylene diphenyl diisocyanate MDI,isocyanate,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,Section 2.1 Materials,false,Commercial diisocyanate.
+PU1951-FA,furfurylamine,furan reagent,NCc1ccco1,Section 2.1 Materials,false,Used for FA-H; FA-M; FA-T and furan-terminated prepolymers.
+PU1951-DFA,difurfurylamine,furan reagent,C(c1ccco1)NCc1ccco1,Section 2.1 Materials,false,Secondary furan amine used for DFA-H; DFA-M; DFA-T.
+PU1951-FOH,furfuryl alcohol,furan reagent,OCc1ccco1,Section 2.1 Materials,false,Used for FOH-H; FOH-M; FOH-T.
+PU1951-HEMI,N-(2-hydroxyethyl)maleimide,maleimide reagent,OCCN1C(=O)C=CC1=O,Section 2.1 Materials,false,Used to obtain HEMI-TDI-PPG prepolymer.
+PU1951-BMI,1,1'-(methylenedi-4,1-phenylene)bismaleimide,curing agent,C1=CC(=CC=C1CC2=CC=C(C=C2)N3C(=O)C=CC3=O)N4C(=O)C=CC4=O,Section 2.1 Materials,false,Traditional bismaleimide curing agent.
+PU1951-DFA-H,DFA-based furan-urethane monomer,HDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from HDI and difurfurylamine.
+PU1951-FA-H,FA-based furan-urethane monomer,HDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from HDI and furfurylamine.
+PU1951-FOH-H,FOH-based furan-urethane monomer,HDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from HDI and furfuryl alcohol.
+PU1951-DFA-M,DFA-based furan-urethane monomer,MDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from MDI and difurfurylamine.
+PU1951-FA-M,FA-based furan-urethane monomer,MDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from MDI and furfurylamine.
+PU1951-FOH-M,FOH-based furan-urethane monomer,MDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from MDI and furfuryl alcohol.
+PU1951-DFA-T,DFA-based furan-urethane monomer,TDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from TDI and difurfurylamine.
+PU1951-FA-T,FA-based furan-urethane monomer,TDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from TDI and furfurylamine.
+PU1951-FOH-T,FOH-based furan-urethane monomer,TDI-based curing agent,UNKNOWN_DERIVED_STRUCTURE,Figure 2; Scheme 1,false,Derived from TDI and furfuryl alcohol.
+PU1951-DFA-TDI-PPG,DFA-TDI-PPG,tetrafuran oligomeric curing agent,UNKNOWN_DERIVED_STRUCTURE,Scheme 1; Figure 3,false,Oligomeric furan-terminated TDI-PPG derivative.
+PU1951-FA-TDI-PPG,FA-TDI-PPG,tetrafuran oligomeric curing agent,UNKNOWN_DERIVED_STRUCTURE,Scheme 1; Figure 3,false,Oligomeric furan-terminated TDI-PPG derivative.
+PU1951-FOH-TDI-PPG,FOH-TDI-PPG,tetrafuran oligomeric curing agent,UNKNOWN_DERIVED_STRUCTURE,Scheme 1; Figure 3,false,Oligomeric furan-terminated TDI-PPG derivative.
+PU1951-HEMI-TDI-PPG,HEMI-TDI-PPG,maleimide-terminated prepolymer,UNKNOWN_POLYMER_STRUCTURE,Scheme 1,false,PPG-2000 plus TDI plus HEMI.
+PU1951-NFu2-TDI-PPG,(NFu2)2-TDI-PPG,furan-terminated prepolymer,UNKNOWN_POLYMER_STRUCTURE,Scheme 1,false,Traditional prepolymer based on DFA.
+PU1951-NFu-TDI-PPG,(NFu)2-TDI-PPG,furan-terminated prepolymer,UNKNOWN_POLYMER_STRUCTURE,Scheme 1,false,Traditional prepolymer based on FA.
+PU1951-OFu-TDI-PPG,(OFu)2-TDI-PPG,furan-terminated prepolymer,UNKNOWN_POLYMER_STRUCTURE,Scheme 1,false,Traditional prepolymer based on FOH.

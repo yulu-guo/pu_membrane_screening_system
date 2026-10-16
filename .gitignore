@@ -1,0 +1,18 @@
+# Trained model bundles. Regenerate with: python train_models.py --trees 500
+# tg_model.joblib alone is ~120 MB, above GitHub's 100 MB per-file limit.
+data/models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lab data imported from the bench stays local until it is meant to be shared
+data/lab_measurements.csv
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

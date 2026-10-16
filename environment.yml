@@ -1,0 +1,11 @@
+name: pu-membrane-properties
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scikit-learn
+  - joblib
+  - rdkit
+  - openpyxl

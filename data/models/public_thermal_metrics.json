@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-10-10T09:08:15.624729+00:00",
+  "general_td": {
+    "rows": 1023,
+    "holdout": {
+      "r2": 0.969151295837963,
+      "mae": 3.5629262043293584
+    },
+    "target": "Td",
+    "source": "GitHub ML-DL Td dataset derived from Polymer Genome"
+  },
+  "general_td5": {
+    "rows": 58,
+    "holdout": {
+      "r2": 0.4350421440846002,
+      "mae": 69.5673611111111
+    },
+    "target": "Td5_C",
+    "source": "Open reference dataset of 60 polymers across ten thermal properties"
+  }
+}

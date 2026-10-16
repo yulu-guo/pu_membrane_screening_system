@@ -1,0 +1,13 @@
+source_doi,source_table,kind,material,material_type,ptmc_mass_fraction,mn_g_mol,td5_c,tdmax_c,tg_c,flory_fox_applies,note
+10.3390/ijms15022608,Table 4,td,PLA,homopolymer,0.000,,315,364,,,"Neat PLA blown film: initial decomposition temperature 315 C, decomposition temperature 364 C."
+10.3390/ijms15022608,Table 4,td,PLA/PTMC-9,blend,0.100,,284,339,,,"PLA/PTMC blend, 90% polylactide. A physical blend is the analogue of a mixed PLA-OH/PTMC-OH soft segment."
+10.3390/ijms15022608,Table 4,td,PLA/PTMC-7,blend,0.300,,283,329,,,"PLA/PTMC blend, 70% polylactide."
+10.3390/ijms15022608,Table 4,td,PLA/PTMC-5,blend,0.500,,276,325,,,"PLA/PTMC blend, 50% polylactide."
+10.3390/ijms15022608,Table 4,td,P(LA-TMC)-9,copolymer,0.136,,275,340,,,"Statistical LA/TMC copolymer, 90 mol% lactide. Reference series only."
+10.3390/ijms15022608,Table 4,td,P(LA-TMC)-7,copolymer,0.378,,265,328,,,"Statistical LA/TMC copolymer, 70 mol% lactide."
+10.3390/ijms15022608,Table 4,td,P(LA-TMC)-5,copolymer,0.586,,259,310,,,"Statistical LA/TMC copolymer, 50 mol% lactide."
+10.3390/ijms18102041,DSC section,tg,PLA,homopolymer,0.000,,,,58.0,TRUE,"DSC of neat PLA, about 58 C. High molecular weight, so this is effectively the infinite-chain Tg."
+10.3390/ijms18102041,DSC section,tg,PLA/PTMC 7:3,blend,0.300,,,,38.8,,"DSC of the PLA/PTMC 7:3 blend, measured 38.8 C."
+10.3390/ijms18102041,DSC section,tg,PTMC,homopolymer,1.000,,,,-20.0,,"PTMC glass transition quoted as about -20 C. No published chain-end parameter for PTMC was found, so the Flory-Fox shift is not applied to this component."
+10.3390/polym14050993,"Section 3, citing Lee et al.",tg_mn,PLGA Mw 8000,glycolide-lactide copolyester,,8000,,,42.17,,"Published molecular-weight series for a lactide-based polyester. Used only to fit the Flory-Fox free-volume parameter K; the glycolide fraction is not stated."
+10.3390/polym14050993,"Section 3, citing Lee et al.",tg_mn,PLGA Mw 110000,glycolide-lactide copolyester,,110000,,,52.62,,"Second point of the same published molecular-weight series."

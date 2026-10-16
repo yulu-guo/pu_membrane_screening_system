@@ -1,0 +1,320 @@
+SMILES,Tg,PID,Polymer Class
+*CC(*)NC(=O)OC(C)(C)C,120.0,P030125,Polyvinyls
+*CC(*)(C)C(=O)NC(=O)Oc1ccc(S(=O)(=O)c2ccc(O)cc2)cc1,182.0,P044346,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)NC(=O)OCCOc1ccc(S(=O)(=O)c2ccc(OCCO)cc2)cc1,131.0,P044347,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)NC(=O)OC(C)COc1ccc(S(=O)(=O)c2ccc(OCC(C)O)cc2)cc1,73.0,P044348,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)NC(=O)Oc1c(Br)cc(S(=O)(=O)c2cc(Br)c(O)c(Br)c2)cc1Br,116.0,P044349,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)NC(=O)OCCOc1c(Br)cc(S(=O)(=O)c2cc(Br)c(OCCO)c(Br)c2)cc1Br,110.0,P044350,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)NC(=O)OC(C)COc1c(Br)cc(S(=O)(=O)c2cc(Br)c(OCC(C)O)c(Br)c2)cc1Br,45.0,P044351,"Polyacrylics, Polyvinyls"
+*CCOCCOC(=O)NCCCCCCNC(=O)O*,17.0,P070256,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOCCOCCOC(=O)NCCCCCCNC(=O)O*,-6.5,P070258,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOCCOCCOCCOC(=O)NCCCCCCNC(=O)O*,-17.0,P070445,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOCCOCCOCCOCCOCCOC(=O)NCCCCCCNC(=O)O*,-31.0,P070446,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCc1ccc(COC(=O)NCc2ccc(C(C)(C)c3ccc(*)o3)o2)o1,55.0,P070709,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCC(OC(=O)NCc1ccc(C(C)(C)c2ccc(*)o2)o1)c1ccco1,20.0,P070710,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCc1ccc(COCc2ccc(COC(=O)NCc3ccc(C(C)(C)c4ccc(*)o4)o3)o2)o1,39.0,P070711,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*COC(=O)Nc1ccc(Cc2ccc(NC(=O)OCc3ccc(*)o3)cc2)cc1,81.0,P070712,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCc1cocc1COC(=O)NCc1ccc(C(C)(C)c2ccc(*)o2)o1,25.0,P070713,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*COC(=O)NCc1ccc(CNC(=O)OCc2ccc(*)o2)o1,75.0,P070714,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCC(OC(=O)NCc1ccc(*)o1)c1ccco1,30.0,P070715,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*COC(=O)NCCCCCCNC(=O)OCc1ccc(*)o1,33.0,P070716,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OC(c1ccco1)C(OC(=O)NCc1ccc(C(C)(C)c2ccc(*)o2)o1)c1ccco1,45.0,P070717,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCCOC(=O)NCc1ccc(C(C)(C)c2ccc(*)o2)o1,50.0,P070718,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CNC(=O)OCC(OC(=O)NCc1ccc(C(CCC)c2ccc(*)o2)o1)c1ccco1,43.0,P070719,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCCCCCOC(=O)Nc1ccc(C)c(NC(=O)OCCCCCCOc2ccc(-c3ccc(O*)cc3)cc2)c1,87.0,P074369,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)OCCCCn3c4ccccc4c4cc(/C=C(\C#N)C(=O)OCCCCCCOC(=O)/C(C#N)=C/c5ccc6c(c5)c5ccccc5n6*)ccc43)cc2)cc1,122.0,P094356,"Polyesters/thioesters, Polyurethanes/thiourethanes, Polyimines"
+*CCCCOC(=O)Nc1ccc(-c2ccc(NC(=O)OCCCCn3c4ccccc4c4cc(/C=C(\C#N)C(=O)OCCCCCCOC(=O)/C(C#N)=C/c5ccc6c(c5)c5ccccc5n6*)ccc43)c(C)c2)cc1C,113.0,P094357,"Polyesters/thioesters, Polyurethanes/thiourethanes, Polyimines"
+*CCCCOC(=O)Nc1ccc(C)c(NC(=O)OCCCCn2c3ccccc3c3cc(/C=C(\C#N)C(=O)OCCCCCCOC(=O)/C(C#N)=C/c4ccc5c(c4)c4ccccc4n5*)ccc32)c1,117.0,P094358,"Polyesters/thioesters, Polyurethanes/thiourethanes, Polyimines"
+*CCOC(=O)NCCCCCCNC(=O)O*,56.0,P110004,Polyurethanes/thiourethanes
+*CCOC(=O)NCCCCCCCCCNC(=O)O*,44.0,P110006,Polyurethanes/thiourethanes
+*CCOC(=O)NCCCCCCCCCCNC(=O)O*,60.8,P110007,Polyurethanes/thiourethanes
+*CCCOC(=O)NCCCCCCNC(=O)O*,55.0,P110008,Polyurethanes/thiourethanes
+*CCCCOC(=O)NCCCCCCNC(=O)O*,33.5,P110013,Polyurethanes/thiourethanes
+*CCCCOC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,33.0,P110017,Polyurethanes/thiourethanes
+*CCCCCOC(=O)NCCCCCCNC(=O)O*,33.0,P110020,Polyurethanes/thiourethanes
+*CCCCCOC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,33.0,P110023,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,5.0,P110026,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)NCCCCCCNC(=O)O*,168.0,P110027,Polyurethanes/thiourethanes
+*CCCCCCCOC(=O)NCCCCCCNC(=O)O*,55.0,P110029,Polyurethanes/thiourethanes
+*CCCCCCCCOC(=O)NCCCCCCNC(=O)O*,58.0,P110030,Polyurethanes/thiourethanes
+*CCCCCCCCCOC(=O)NCCCCCCNC(=O)O*,58.0,P110033,Polyurethanes/thiourethanes
+*CCCCCCCCCCOC(=O)NCCCCCCNC(=O)O*,55.0,P110036,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCOC(=O)NCCCCCCNC(=O)O*,36.0,P110039,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCOC(=O)NCCCCCCCCCCNC(=O)O*,34.0,P110040,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCCCCCOC(=O)NCCCCCCNC(=O)O*,39.0,P110042,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCCCCCOC(=O)NCCCCCCCCCCNC(=O)O*,34.0,P110043,Polyurethanes/thiourethanes
+*CC#CCOC(=O)NCCCCCCNC(=O)O*,-45.0,P110052,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)COC(=O)NCCCCCCNC(=O)O*,9.0,P110053,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)COC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,38.0,P110054,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)C(F)(F)COC(=O)NCCCCCCNC(=O)O*,16.0,P110055,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)C(F)(F)COC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,25.0,P110056,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)C(F)(F)C(F)(F)COC(=O)NCCCCCCNC(=O)O*,-2.0,P110057,Polyurethanes/thiourethanes
+*CC(F)(F)C(F)(F)C(F)(F)C(F)(F)COC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,20.0,P110058,Polyurethanes/thiourethanes
+*CCOC(=O)Nc1cc(NC(=O)O*)ccc1C,52.0,P110064,Polyurethanes/thiourethanes
+*CCCOC(=O)Nc1cc(NC(=O)O*)ccc1C,6.0,P110065,Polyurethanes/thiourethanes
+*CCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,42.0,P110066,Polyurethanes/thiourethanes
+*CCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,52.0,P110068,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,32.0,P110071,Polyurethanes/thiourethanes
+*CCCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,61.0,P110072,Polyurethanes/thiourethanes
+*CC(CC)(CC)COC(=O)Nc1ccc(C)c(NC(=O)O*)c1,-60.0,P110073,Polyurethanes/thiourethanes
+*CCCCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,64.0,P110074,Polyurethanes/thiourethanes
+*CCCCCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,62.0,P110075,Polyurethanes/thiourethanes
+*CCCCCCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,18.0,P110076,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)NCc1ccc(CNC(=O)O*)cc1,56.0,P110078,Polyurethanes/thiourethanes
+*CCCCCCCCCCOC(=O)NCc1ccc(CNC(=O)O*)cc1,49.0,P110080,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCOC(=O)NCc1ccc(CNC(=O)O*)cc1,45.0,P110081,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCCCCCOC(=O)NCc1ccc(CNC(=O)O*)cc1,47.0,P110082,Polyurethanes/thiourethanes
+*CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,139.0,P110085,Polyurethanes/thiourethanes
+*CCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,119.0,P110086,Polyurethanes/thiourethanes
+*CCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,109.0,P110087,Polyurethanes/thiourethanes
+*CCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,95.0,P110088,Polyurethanes/thiourethanes
+*CC(C)(C)COC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,94.0,P110089,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,71.0,P110092,Polyurethanes/thiourethanes
+*CCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,84.0,P110093,Polyurethanes/thiourethanes
+*CCCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,79.0,P110094,Polyurethanes/thiourethanes
+*CCCCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,72.0,P110095,Polyurethanes/thiourethanes
+*CCCCCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,60.0,P110096,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,43.0,P110097,Polyurethanes/thiourethanes
+*CCCCCCCCCCCCCCCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,40.0,P110098,Polyurethanes/thiourethanes
+*Cc1cccc(COC(=O)Nc2ccc(Cc3ccc(NC(=O)O*)cc3)cc2)c1,106.0,P110100,Polyurethanes/thiourethanes
+*Cc1cc(COC(=O)Nc2ccc(Cc3ccc(NC(=O)O*)cc3)cc2)cc(C(C)(C)C)c1,114.0,P110101,Polyurethanes/thiourethanes
+*CCOC(=O)Nc1ccc(CCc2ccc(NC(=O)O*)cc2)cc1,116.9,P110102,Polyurethanes/thiourethanes
+*CCOC(=O)Nc1ccc(CCCc2ccc(NC(=O)O*)cc2)cc1,74.1,P110103,Polyurethanes/thiourethanes
+*CCOC(=O)Nc1ccc(CCCCc2ccc(NC(=O)O*)cc2)cc1,105.7,P110104,Polyurethanes/thiourethanes
+*C/C=C/COC(=O)NCCCCCCNC(=O)O*,-44.0,P110123,Polyurethanes/thiourethanes
+*C/C=C/COC(=O)NCCCCCCNC(=O)O*,-44.0,P110124,Polyurethanes/thiourethanes
+*C/C=C/COC(=O)NCCCCCCNC(=O)O*,-39.0,P110123,Polyurethanes/thiourethanes
+*C/C=C/COC(=O)NCCCCCCNC(=O)O*,-39.0,P110124,Polyurethanes/thiourethanes
+*C(=O)OCCOC(=O)N1CCN(*)CC1,60.0,P110136,Polyurethanes/thiourethanes
+*C(=O)OCC(C)(C)COC(=O)N1CCN(*)CC1,70.0,P110143,Polyurethanes/thiourethanes
+*CC(C)(C)COC(=O)Nc1ccc(C)c(NC(=O)O*)c1,-32.0,P110147,Polyurethanes/thiourethanes
+*CC1CCC(COC(=O)Nc2ccc(Cc3ccc(NC(=O)O*)cc3)cc2)CC1,134.0,P110185,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)NCCCCNC(=O)O*,16.0,P110206,Polyurethanes/thiourethanes
+*CC(C)(C)CS(=O)(=O)CC(C)(C)COC(=O)NCCCCCCNC(=O)O*,30.0,P110232,"Polyurethanes/thiourethanes, Polysulfones/sulfoxides/sufonates/sulfoamides"
+*C(=O)OCC(C)(C)CS(=O)(=O)CC(C)(C)COC(=O)N1CC(C)N(*)CC1C,85.0,P110233,"Polyurethanes/thiourethanes, Polysulfones/sulfoxides/sufonates/sulfoamides"
+*OC(COC(=O)Nc1ccc(Cc2ccc(NC(*)=O)cc2)cc1)c1ccco1,40.0,P110236,Polyurethanes/thiourethanes
+*OC(c1ccco1)C(OC(=O)Nc1ccc(Cc2ccc(NC(*)=O)cc2)cc1)c1ccco1,74.0,P110237,Polyurethanes/thiourethanes
+*COC(=O)Nc1ccc(Cc2ccc(NC(=O)OCc3cocc3*)cc2)cc1,45.0,P110238,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*OC(COC(=O)NCCCCCCNC(*)=O)c1ccco1,17.0,P110239,Polyurethanes/thiourethanes
+*Oc1ccc(C(c2ccc(OC(=O)Nc3ccc(Cc4ccc(NC(*)=O)cc4)cc3)cc2)(C(F)(F)F)C(F)(F)F)cc1,81.0,P114382,Polyurethanes/thiourethanes
+*CC(C)(C)CS(=O)(=O)CC(C)(C)COC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,90.0,P114563,"Polyurethanes/thiourethanes, Polysulfones/sulfoxides/sufonates/sulfoamides"
+*CCCCCCCNC(=O)N*,62.0,P120006,Polyureas/thioureas
+*CCCCCCCCCNC(=O)N*,130.0,P120008,Polyureas/thioureas
+*CCCCCCCCCCCCNC(=O)NCCCCCCNC(=O)N*,49.0,P120023,Polyureas/thioureas
+*CCCCCCCCCCCCCCNC(=O)NCCCCCCNC(=O)N*,47.0,P120024,Polyureas/thioureas
+*CCCCCCCCCCCCCCNC(=O)NCCCCCCCCCCNC(=O)N*,40.0,P120027,Polyureas/thioureas
+*CCCCCCNC(=O)NCc1ccc(CNC(=O)N*)cc1,72.0,P120031,Polyureas/thioureas
+*CCCCCCCCNC(=O)NCc1ccc(CNC(=O)N*)cc1,68.0,P120032,Polyureas/thioureas
+*CCCCCCCCCCNC(=O)NCc1ccc(CNC(=O)N*)cc1,55.0,P120033,Polyureas/thioureas
+*CCCCCCCCCCCCCCNC(=O)NCc1ccc(CNC(=O)N*)cc1,54.0,P120035,Polyureas/thioureas
+*CCCCCCCCCCCCCCCCCCNC(=O)NCc1ccc(CNC(=O)N*)cc1,52.0,P120036,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCNC(*)=O)cc2)cc1,78.0,P120037,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCCCNC(*)=O)cc2)cc1,50.0,P120038,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCCCCCNC(*)=O)cc2)cc1,46.0,P120039,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCCCCCCCNC(*)=O)cc2)cc1,51.0,P120040,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCCCCCCCCCCCCCNC(*)=O)cc2)cc1,48.0,P120042,Polyureas/thioureas
+*c1ccc(NC(=O)Nc2ccc(NC(=O)Nc3ccc(-c4nc(-c5ccc([N+](=O)[O-])cc5)[nH]c4*)cc3)cc2)cc1,292.0,P124411,"Polyureas/thioureas, Polyimines"
+*CC(*)(C)C(=O)OCC1CC(NC(=O)OC(C)(C)C)CN1C(=O)OC(C)(C)C,127.0,P342521,"Polyacrylics, Polyvinyls"
+*CC(*)(C)C(=O)OCC1CC(NC(=O)C2CC(NC(=O)OC(C)(C)C)CN2C(=O)OC(C)(C)C)CN1C(=O)C1CC(NC(=O)OC(C)(C)C)CN1C(=O)OC(C)(C)C,200.0,P342522,"Polyacrylics, Polyvinyls"
+*OC(=O)NC1CCC(CC2CCC(NC(=O)OC3CC4CC(*)CC(C3)O4)CC2)CC1,225.0,P370017,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*C(=O)OC1CC2CC(OC(=O)N3CCN(*)CC3)CC(C1)O2,113.0,P370018,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*OC(=O)Nc1ccc(Cc2ccc(NC(=O)OC3CC4CC(*)CC(C3)O4)cc2)cc1,200.0,P370019,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)OCCOc3ccc(O*)cc3)cc2)cc1,98.0,P370531,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*OP(=O)(Oc1ccc(NC(=O)Oc2ccc(-c3ccc(OC(=O)Nc4ccc(*)cc4)cc3)cc2)cc1)c1ccccc1,34.0,P372216,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*OP(=O)(Oc1ccc(NC(=O)OCCCCCCOC(=O)Nc2ccc(*)cc2)cc1)c1ccccc1,-3.0,P372217,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*OP(=O)(Oc1ccc(NC(=O)Oc2ccc(C(C)(C)c3ccc(OC(=O)Nc4ccc(*)cc4)cc3)cc2)cc1)c1ccccc1,34.0,P372218,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCCCCCCCOC(=O)Nc1ccc(NC(=O)OCCCCCCCCOc2ccc(-c3ccc(O*)cc3)cc2)c(C)c1,81.0,P372326,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCCCCCCCCCCOC(=O)Nc1ccc(NC(=O)OCCCCCCCCCCCOc2ccc(-c3ccc(O*)cc3)cc2)c(C)c1,77.0,P372328,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCCCCCOC(=O)Nc1ccc(NC(=O)OCCCCCCOc2ccc(-c3ccc(O*)cc3)cc2)c(C)c1,89.0,P372329,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1ccc(Oc2ccc(N3C(=O)N4C(c5ccc(OC)cc5)N(*)C(=O)N4C3c3ccc(OC)cc3)cc2)cc1,163.0,P372523,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*Oc1ccc(NC(=O)Nc2ccccc2CCc2ccc(NC(=O)Nc3ccc(*)cc3)cc2)cc1,200.0,P372578,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*Oc1ccc(NC(=O)Nc2ccccc2CCc2ccccc2NC(=O)Nc2ccc(*)cc2)cc1,232.0,P372579,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*CCNC(=O)Nc1ccc(Cc2ccc(NC(=O)NCCOCCO*)cc2)cc1,8.0,P372659,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*CCOCCOCCOCCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,37.0,P372928,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOP(=O)(/N=N/c1ccc(COC(=O)c2cc(C(=O)OCc3ccc(/N=N/P(=O)(O*)OC)cc3)cc(C(C)(C)C)c2)cc1)OC,105.0,P372977,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyurethanes/thiourethanes"
+*CCOP(=O)(/N=N/c1ccc(CCOC(=O)c2cc(C(=O)OCCc3ccc(/N=N/P(=O)(O*)OC)cc3)cc(C(C)(C)C)c2)cc1)OC,84.0,P372978,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyurethanes/thiourethanes"
+*CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)OCCOc3ccc(C4(c5ccc(O*)cc5)c5ccccc5-c5ccccc54)cc3)cc2)cc1,152.0,P373184,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOC(=O)Nc1ccc(C)c(NC(=O)OCCOc2ccc(C3(c4ccc(O*)cc4)c4ccccc4-c4ccccc43)cc2)c1,175.0,P373185,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOC(=O)NCCCCCCNC(=O)OCCOc1ccc(C2(c3ccc(O*)cc3)c3ccccc3-c3ccccc32)cc1,61.0,P373186,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOC(=O)NC1CCC(CC2CCC(NC(=O)OCCOc3ccc(C4(c5ccc(O*)cc5)c5ccccc5-c5ccccc54)cc3)CC2)CC1,140.0,P373187,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)OCCOc3ccc(C(C)(C)c4ccc(O*)cc4)cc3)cc2)cc1,127.0,P373189,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*/C=C/c1ccc(N(C)CCOC(=O)Nc2ccc(C)c(NC(=O)OCCN(C)c3ccc(/C=C/C4=CC(=C(C#N)C#N)C=C(*)O4)s3)c2)s1,183.0,P373433,"Polyoxides/ethers/acetals, Polysulfides, Polyurethanes/thiourethanes, Polyimines"
+*OC(=O)Nc1ccc(C)c(NC(=O)OC2CCN(c3ccc(/C=C/C4=CC(=C(C#N)C#N)C=C(/C=C/c5ccc(N6CCC(*)CC6)s5)O4)s3)CC2)c1,212.0,P373434,"Polyoxides/ethers/acetals, Polysulfides, Polyurethanes/thiourethanes, Polyimines"
+*/C=C/c1ccc(/N=N/c2ccc(N(C)CCOC(=O)Nc3ccc(C)c(NC(=O)OCCN(C)c4ccc(/N=N/c5ccc(/C=C/C6=CC(=C(C#N)C#N)C=C(*)O6)cc5)cc4)c3)cc2)cc1,196.0,P373435,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyimines"
+*CCOC(=O)Nc1ccc(C)c(NC(=O)OCCOc2cc([N+](=O)[O-])ccc2/N=N/c2cn(*)c3ccc(-c4ccc5c(c4)c4ccccc4n5CCCC)cc23)c1,160.0,P373657,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyimines"
+*CCOC(=O)Nc1ccc(C)c(NC(=O)OCCOc2cc([N+](=O)[O-])ccc2/N=N/c2cn(*)c3ccc(-c4ccccc4)cc23)c1,165.0,P373658,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyimines"
+*CCOC(=O)Nc1ccc(C)c(NC(=O)OCCOc2cc([N+](=O)[O-])ccc2/N=N/c2cn(*)c3ccccc23)c1,150.0,P373659,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(NC(=O)NC2CC(C)(C)CC(C)(CNC(=O)Nc3ccc(*)c(-c4ccc(Oc5ccccc5)cc4)c3)C2)cc1-c1ccc(Oc2ccccc2)cc1,281.0,P373705,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*Oc1ccc(NC(=O)Nc2cc(NC(=O)Nc3ccc(*)c(-c4ccc(Oc5ccccc5)cc4)c3)ccc2C)cc1-c1ccc(Oc2ccccc2)cc1,279.0,P373706,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*Oc1ccc(NC(=O)NC2CC(C)(C)CC(C)(CNC(=O)Nc3ccc(*)cc3)C2)cc1,274.0,P373707,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*Oc1ccc(NC(=O)Nc2cc(NC(=O)Nc3ccc(*)cc3)ccc2C)cc1,269.0,P373708,"Polyoxides/ethers/acetals, Polyureas/thioureas"
+*CCCCCCOC(=O)NC1CCC(CC2CCC(NC(=O)OCCCCCCOc3ccc(CCc4ccc(O*)cc4)cc3)CC2)CC1,40.3,P373796,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*C(=O)OCCOC(=O)c1ccc(C(=O)OCCOC(=O)N2CCN(*)CC2)cc1,53.0,P390363,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*O[Ca]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1ccccc1C(*)=O,-2.4,P392462,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*CCCCCOC(=O)c1ccccc1C(=O)O[Cd]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)O*,-6.8,P392463,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*CCCCCOC(=O)c1ccccc1C(=O)O[Pb]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)O*,-19.2,P392464,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*O[Zn]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1ccccc1C(*)=O,-4.3,P392465,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*O[Ca]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)Nc1cc(NC(=O)OCCCCCOC(=O)c2ccccc2C(*)=O)ccc1C,5.1,P392466,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*CCCCCOC(=O)c1ccccc1C(=O)O[Cd]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,2.3,P392467,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*CCCCCOC(=O)c1ccccc1C(=O)O[Pb]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,-11.3,P392468,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*O[Zn]OC(=O)c1ccccc1C(=O)OCCCCCOC(=O)Nc1cc(NC(=O)OCCCCCOC(=O)c2ccccc2C(*)=O)ccc1C,4.2,P392469,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+*CCOC(=O)NCC1(C)CC(NC(=O)O*)CC(C)(C)C1,84.0,P392501,Polyurethanes/thiourethanes
+*CCCCCCCCCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,34.0,P400026,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,63.0,P400231,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,22.0,P400232,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,56.0,P400233,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCCCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,20.0,P400234,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCCCCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,45.0,P400235,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCCCCCCCOC(=O)NNC(=O)CCCCCCCCC(=O)NNC(=O)O*,38.0,P400236,"Polyamides/thioamides, Polyurethanes/thiourethanes"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc([N+](=O)[O-])cc1C,98.0,P410008,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,144.0,P410009,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2C)cc1,137.0,P410010,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/C=C/c2ccc([N+](=O)[O-])cc2)cc1,121.0,P410011,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(C(C#N)=C(C#N)C#N)cc1,125.0,P410012,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/C=C2/NC(=O)NC2=O)cc1,178.0,P410013,"Polyurethanes/thiourethanes, Polyimines"
+*CCCNC(=O)O*,26.0,P410033,Polyurethanes/thiourethanes
+*CCN(CCOC(=O)NCCCCCCNC(=O)O*)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)c(C)c1,75.0,P410034,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)c(C)c1,115.0,P410035,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(-c2ccc(OC(=O)Nc3cccc(P(=O)(c4ccccc4)c4cccc(NC(*)=O)c4)c3)cc2)cc1,72.0,P412005,Polyurethanes/thiourethanes
+*CCCCCCOC(=O)Nc1cccc(P(=O)(c2ccccc2)c2cccc(NC(=O)O*)c2)c1,30.0,P412006,Polyurethanes/thiourethanes
+*Oc1ccc(C(C)(C)c2ccc(OC(=O)Nc3cccc(P(=O)(c4ccccc4)c4cccc(NC(*)=O)c4)c3)cc2)cc1,62.0,P412007,Polyurethanes/thiourethanes
+*CCN(CCCCCCOc1ccc(/C=C/c2ccc([N+](=O)[O-])cc2)cc1)CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1,58.5,P412021,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NCC1(C)CC(NC(=O)O*)CC(C)(C)C1)c1ccc(/N=N/c2ccc(B(c3c(C)cc(C)cc3C)c3c(C)cc(C)cc3C)cc2)cc1,146.0,P412025,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(B(c3c(C)cc(C)cc3C)c3c(C)cc(C)cc3C)cc2)cc1,159.0,P412026,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1cccc(NC(=O)O*)c1C)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,147.0,P412116,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NCC1(C)CC(NC(=O)O*)CC(C)(C)C1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,137.0,P412117,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NCC1(C)CC(NC(=O)O*)CC(C)(C)C1)c1ccc(C=C(C#N)C#N)cc1,145.0,P412118,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2C)c(C)c1,135.0,P412121,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2C)c(C)c1,130.0,P412122,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1cccc(NC(=O)O*)c1C)c1ccc(/C=C/c2ccc([N+](=O)[O-])cc2)cc1,123.0,P412126,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(-c2ccc(NC(=O)O*)c(OC)c2)cc1OC)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,140.0,P412142,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(-c2nc3ccc([N+](=O)[O-])cc3o2)cc1,156.0,P412157,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(-c3nc4ccccc4o3)cc2)cc1,152.0,P412158,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NC(C)(C)c1cccc(C(C)(C)NC(=O)O*)c1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,103.0,P412163,"Polyurethanes/thiourethanes, Polyimines"
+*CC(C)CNC(=O)O*,40.0,P412164,Polyurethanes/thiourethanes
+*CCN(CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,136.4,P412173,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(-c2ccc(NC(=O)O*)c(C)c2)cc1C)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,119.5,P412174,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NCC1(C)CC(NC(=O)O*)CC(C)(C)C1)c1ccc(/N=N/c2ccc(C#N)cc2)cc1,136.0,P412176,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/C=C/c2cc[n+](CCCC)cc2)cc1,121.0,P412179,"Polyurethanes/thiourethanes, Polyimines"
+*c1ccc(OC(=O)Nc2ccc(-c3ccc(NC(=O)Oc4ccc(-c5nc(-c6ccc(-c7nc(-c8ccc([N+](=O)[O-])cc8)c(-c8ccc([N+](=O)[O-])cc8)[nH]7)cc6)[nH]c5*)cc4)cc3OC)c(OC)c2)cc1,223.0,P412180,"Polyurethanes/thiourethanes, Polyimines"
+*c1ccc(OC(=O)Nc2ccc(-c3ccc(NC(=O)Oc4ccc(-c5nc(-c6ccc([N+](=O)[O-])cc6)[nH]c5*)cc4)cc3OC)c(OC)c2)cc1,202.0,P412181,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1)c1ccccc1,31.9,P412201,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)NCCCCCCNC(=O)O*)c1ccccc1,31.9,P412204,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccccc1,31.9,P412206,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(Cc1ccccc1)C(=O)S*,32.0,P412209,Polyurethanes/thiourethanes
+*CCCN(Cc1ccccc1)C(=O)S*,27.0,P412210,Polyurethanes/thiourethanes
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(-c3nc4cc([N+](=O)[O-])ccc4[nH]3)cc2)cc1,188.0,P412211,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(/N=N/c3cc(OC)c(/N=N/c4ccc([N+](=O)[O-])cc4)cc3OC)c(C)c2)cc1,148.0,P412213,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCCCCOc1ccc(/N=N/c2ccccc2)cc1)CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,59.6,P412216,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCCCCCOc1ccc(/N=N/c2ccccc2)cc1)CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,44.0,P412217,"Polyurethanes/thiourethanes, Polyimines"
+*CCCCOC(=O)NCCCCNC(=O)O*,7.0,P412224,Polyurethanes/thiourethanes
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(-c3nc4ccc([N+](=O)[O-])cc4n3CC)cc2)cc1,158.0,P412227,"Polyurethanes/thiourethanes, Polyimines"
+*CCN(CCOC(=O)Nc1ccc(C)c(NC(=O)O*)c1)c1ccc(/N=N/c2ccc(/C=C/c3nc4ccc([N+](=O)[O-])cc4n3CC)cc2)cc1,171.0,P412228,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/C=N/c2ccc(OC(=O)Nc3ccc(Cc4ccc(NC(*)=O)cc4)cc3)cc2)cc1,133.0,P412230,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/C=N/c2ccc(OC(=O)Nc3cc(NC(*)=O)ccc3C)cc2)cc1,76.0,P412231,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/C=N/c2ccc(OC(=O)NC3CC(C)(C)CC(C)(CNC(*)=O)C3)cc2)cc1,62.0,P412232,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/C=N/c2ccc(OC(=O)NCCCCCCNC(*)=O)cc2)cc1,80.0,P412233,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/CCC/C=N/c2ccc(OC(=O)Nc3ccc(Cc4ccc(NC(*)=O)cc4)cc3)cc2)cc1,76.0,P412234,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/CCC/C=N/c2ccc(OC(=O)Nc3cc(NC(*)=O)ccc3C)cc2)cc1,69.0,P412235,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/CCC/C=N/c2ccc(OC(=O)NC3CC(C)(C)CC(C)(CNC(*)=O)C3)cc2)cc1,66.0,P412236,"Polyurethanes/thiourethanes, Polyimines"
+*Oc1ccc(/N=C/CCC/C=N/c2ccc(OC(=O)NCCCCCCNC(*)=O)cc2)cc1,72.0,P412237,"Polyurethanes/thiourethanes, Polyimines"
+*CC(C)(COC(=O)NCCCCCCNC(=O)O*)C(=O)O,-26.0,P412238,Polyurethanes/thiourethanes
+*C(=O)Nc1ccc(-c2ccc(NC(=O)N3CC(C)N(*)CC3C)cc2)cc1,250.0,P420001,Polyureas/thioureas
+*CCCCCNC(=S)N*,55.0,P422002,Polyureas/thioureas
+*CCCCCCCNC(=S)N*,52.0,P422003,Polyureas/thioureas
+*CCCCCCCCCNC(=S)N*,48.0,P422004,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)NCCCCCCCCCNC(*)=O)cc2)cc1,-50.0,P422005,Polyureas/thioureas
+*Nc1ccccc1CCc1ccc(NC(=O)Nc2ccc(CCc3ccc(NC(*)=O)cc3)cc2)cc1,217.0,P422019,Polyureas/thioureas
+*Nc1ccccc1CCc1ccccc1NC(=O)Nc1ccc(CCc2ccc(NC(*)=O)cc2)cc1,235.0,P422020,Polyureas/thioureas
+*Nc1ccc(Cc2ccc(NC(=O)Nc3ccccc3CCc3ccc(NC(*)=O)cc3)cc2)cc1,217.0,P422023,Polyureas/thioureas
+*Nc1ccccc1CCc1ccc(NC(=O)NCCCCCCNC(*)=O)cc1,150.0,P422028,Polyureas/thioureas
+*Nc1ccccc1CCc1ccc(NC(*)=O)cc1,198.0,P422032,Polyureas/thioureas
+*Nc1cc(NC(=O)Nc2ccc(CCc3ccccc3NC(*)=O)cc2)ccc1C,227.0,P422035,Polyureas/thioureas
+*c1ccc(NC(=O)Nc2ccc(NC(=O)Nc3ccc(-c4nc(C#N)c(C#N)nc4*)cc3)cc2)cc1,248.7,P422040,"Polyureas/thioureas, Polyimines"
+*NC(=O)NCCCCCCNC(=O)Nc1cccc(*)n1,170.0,P422048,"Polyureas/thioureas, Polyimines"
+*NC(=O)Nc1ccc(Cc2ccc(NC(=O)Nc3cccc(*)n3)cc2)cc1,206.5,P422049,"Polyureas/thioureas, Polyimines"
+*c1ccc(NC(=O)Nc2ccc(NC(=O)Nc3ccc(-c4nc(-c5ccc(-c6nc(-c7ccc([N+](=O)[O-])cc7)c(-c7ccc([N+](=O)[O-])cc7)[nH]6)cc5)[nH]c4*)cc3)cc2)cc1,272.0,P422050,"Polyureas/thioureas, Polyimines"
+*Nc1cccc2c(NC(=O)Nc3cc(NC(*)=O)cc(C(=O)Nc4ccc5c(c4)C(=O)c4ccccc4C5=O)c3)cccc12,178.0,P422056,Polyureas/thioureas
+*Nc1cc(NC(=O)Nc2ccc(Cc3ccc(NC(*)=O)cc3)cc2)cc(C(=O)Nc2ccc3c(c2)C(=O)c2ccccc2C3=O)c1,168.0,P422057,Polyureas/thioureas
+*Nc1cc(NC(=O)NC2CCC(CC3CCC(NC(*)=O)CC3)CC2)cc(C(=O)Nc2ccc3c(c2)C(=O)c2ccccc2C3=O)c1,148.0,P422058,Polyureas/thioureas
+*Nc1cc(NC(=O)Nc2ccc(NC(*)=O)cc2)cc(C(=O)Nc2ccc3c(c2)C(=O)c2ccccc2C3=O)c1,184.0,P422059,Polyureas/thioureas
+*Nc1cc(NC(=O)Nc2ccc(NC(*)=O)cc2)cc(C(=O)Nc2cccc3c2C(=O)c2ccccc2C3=O)c1,190.0,P422060,Polyureas/thioureas
+*Nc1cccc2c(NC(=O)Nc3cc(NC(*)=O)cc(C(=O)Nc4cccc5c4C(=O)c4ccccc4C5=O)c3)cccc12,185.0,P422061,Polyureas/thioureas
+*Nc1cc(NC(=O)Nc2ccc(Cc3ccc(NC(*)=O)cc3)cc2)cc(C(=O)Nc2cccc3c2C(=O)c2ccccc2C3=O)c1,178.0,P422062,Polyureas/thioureas
+*Nc1cc(NC(=O)NC2CCC(CC3CCC(NC(*)=O)CC3)CC2)cc(C(=O)Nc2cccc3c2C(=O)c2ccccc2C3=O)c1,156.0,P422063,Polyureas/thioureas
+*CC(C)(C)COC(=O)NC(=O)c1cccc(C(=O)NC(=O)O*)c1,66.0,P430342,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(C)(C)COC(=O)NC(=O)c1ccc(C(=O)NC(=O)O*)cc1,102.0,P430343,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(CCCC)COC(=O)NC(=O)c1cccc(C(=O)NC(=O)O*)c1,64.0,P430344,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(CCCCCCCC)COC(=O)NC(=O)c1cccc(C(=O)NC(=O)O*)c1,65.0,P430345,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(CCCCCCCCCCCC)COC(=O)NC(=O)c1cccc(C(=O)NC(=O)O*)c1,112.0,P430346,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(CCCCCCCCCCCC)COC(=O)NC(=O)c1ccc(C(=O)NC(=O)O*)cc1,75.0,P430347,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*CC(C)(C)COC(=O)NC(=O)c1cc(C(=O)NC(=O)O*)cc(C(C)(C)C)c1,144.0,P430348,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*Oc1ccc(C(C)(C)c2ccc(OC(=O)NC(=O)c3cc(C(=O)NC(*)=O)cc(C(C)(C)C)c3)cc2)cc1,123.5,P430349,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*Oc1ccc(Oc2ccc(OC(=O)NC(=O)c3cc(C(=O)NC(*)=O)cc(C(C)(C)C)c3)cc2)cc1,114.5,P430350,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*CC(c1ccccc1)C1C(=O)N(c2ccc(NC(=O)OCC3CCCN3c3ccc([N+](=O)[O-])cc3)cc2)C(=O)C1*,208.0,P432044,Polyimides/thioimides
+*CCCCCCN1C(=O)C(=O)N(*)C1=O,55.0,P432216,"Polyimides/thioimides, Polyureas/thioureas"
+*CCCCCCN1C(=O)C(=O)N(c2ccc(C)c(N3C(=O)C(=O)N(*)C3=O)c2)C1=O,181.5,P432217,"Polyimides/thioimides, Polyureas/thioureas"
+*CCCCCCN1C(=O)C(=O)N(c2ccc(Oc3ccc(N4C(=O)C(=O)N(*)C4=O)cc3)cc2)C1=O,172.0,P432218,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*CCCCCCN1C(=O)C(=O)N(c2ccc(Cc3ccc(N4C(=O)C(=O)N(*)C4=O)cc3)cc2)C1=O,158.0,P432219,"Polyimides/thioimides, Polyureas/thioureas"
+*CCCCCCN1C(=O)C(=O)N(c2ccc(CCc3ccccc3N3C(=O)C(=O)N(*)C3=O)cc2)C1=O,137.0,P432221,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccccc1CCc1ccc(N2C(=O)C(=O)N(c3ccc(C)c(N4C(=O)C(=O)N(*)C4=O)c3)C2=O)cc1,255.0,P432223,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccc(CCc2ccccc2N2C(=O)C(=O)N(c3ccc(Oc4ccc(N5C(=O)C(=O)N(*)C5=O)cc4)cc3)C2=O)cc1,208.0,P432224,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(CCc2ccccc2N2C(=O)C(=O)N(c3ccc(Cc4ccc(N5C(=O)C(=O)N(*)C5=O)cc4)cc3)C2=O)cc1,198.0,P432225,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccc(CCc2ccc(N3C(=O)C(=O)N(c4ccc(CCc5ccccc5N5C(=O)C(=O)N(*)C5=O)cc4)C3=O)cc2)cc1,220.0,P432226,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccc(CCc2ccc(N3C(=O)C(=O)N(*)C3=O)cc2)cc1,196.0,P432228,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccc(Cc2ccc(N3C(=O)N(c4ccc(Cc5ccc(N6C(=O)N(*)C(C)(C)C6=O)cc5)cc4)C(=O)C3(C)C)cc2)cc1,259.5,P432486,"Polyimides/thioimides, Polyureas/thioureas"
+*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)CC(=O)N(*)C4=S)cc3)cc2)cc1,157.0,P432553,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc(C(C)(C)c3ccc(Oc4ccc(N5C(=O)CC(=O)N(*)C5=S)cc4)cc3)cc2)cc1,150.0,P432554,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2cccc(Oc3ccc(N4C(=O)CC(=O)N(*)C4=S)cc3)c2)cc1,145.0,P432555,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc(-c3ccc(Oc4ccc(N5C(=O)CC(=O)N(*)C5=S)cc4)cc3)cc2)cc1,158.5,P432556,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc(C(c3ccc(Oc4ccc(N5C(=O)CC(=O)N(*)C5=S)cc4)cc3)(C(F)(F)F)C(F)(F)F)cc2)cc1,147.0,P432557,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc3ccc(Oc4ccc(N5C(=O)CC(=O)N(*)C5=S)cc4)cc3c2)cc1,151.5,P432558,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc(C3(c4ccc(Oc5ccc(N6C(=O)CC(=O)N(*)C6=S)cc5)cc4)c4ccccc4-c4ccccc43)cc2)cc1,175.0,P432559,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1cccc(N2C(=O)C(=O)N(CCCCCCN3C(=O)C(=O)N(*)C3=O)C2=O)n1,169.5,P432878,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*c1cccc(N2C(=O)C(=O)N(c3ccc(Cc4ccc(N5C(=O)C(=O)N(*)C5=O)cc4)cc3)C2=O)n1,237.0,P432879,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*C(=O)N1C(=O)N(C(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)C(C)(C)C1=O,156.0,P432961,"Polyimides/thioimides, Polyureas/thioureas, Polyoxides/ethers/acetals, Polyketones/thioketones"
+*C(=O)N1C(=O)N(C(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)C(CC)(CC)C1=O,160.0,P432963,"Polyimides/thioimides, Polyureas/thioureas, Polyoxides/ethers/acetals, Polyketones/thioketones"
+*C(=O)N1C(=S)N(C(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)C(C)=C(C(=O)OCC)C1c1ccccc1,155.0,P433065,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*C(=O)N1C(=S)N(C(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)C(C)=C(C(=O)OCC)C1c1ccc(OC)cc1OC,165.0,P433069,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*C(=O)Nc1ccc(NC(=O)Nc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,208.0,P433102,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)Nc1ccc(-c2cc(-c3ccccc3)cc(-c3ccc(NC(=O)c4ccc5c(c4)C(=O)N(c4ccc(NC(=O)Nc6ccc(N7C(=O)c8ccc(*)cc8C7=O)cc6)cc4)C5=O)cc3)n2)cc1,215.0,P433103,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas, Polyimines"
+*C(=O)Nc1ccc(S(=O)(=O)c2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,205.0,P433104,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas, Polysulfones/sulfoxides/sufonates/sulfoamides"
+*C(=O)Nc1ccc(NC(=O)c2ccc3c(c2)C(=O)N(c2ccc(NC(=O)Nc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)cc1,216.0,P433105,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)Nc1ccc(C(=O)c2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,212.0,P433106,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas, Polyketones/thioketones"
+*C(=O)Nc1ccc(Cc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,211.0,P433107,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)Nc1ccc(Oc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,205.0,P433108,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)Nc1ccc2c(c1)Cc1cc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)ccc1-2,224.0,P433109,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)Nc1ccc(-c2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(NC(=O)Nc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,233.0,P433110,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=O)c1ccc2c(c1)C(=O)N(c1ccc(C(=O)Nc3ccc(Oc4ccc(NC(=O)c5ccc(NC(=O)Nc6ccc(Cc7ccc(NC(=O)Nc8ccc(C(=O)Nc9ccc(Oc%10ccc(NC(=O)c%11ccc(N%12C(=O)c%13ccc(*)cc%13C%12=O)cc%11)cc%10)cc9)cc8)cc7)cc6)cc5)cc4)cc3)cc1)C2=O,229.0,P433123,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyureas/thioureas, Polyketones/thioketones"
+*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6cccc(NC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)n6)cc5C4=O)cc3)ccc3ccccc23)cc1,283.0,P433334,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas, Polyimines"
+*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6cccc7c(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cccc67)cc5C4=O)cc3)ccc3ccccc23)cc1,297.0,P433335,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(Oc7ccc(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)ccc3ccccc23)cc1,274.0,P433336,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(Oc7ccccc7-c7ccccc7Oc7ccc(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)ccc3ccccc23)cc1,285.0,P433337,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(-c7cc(-c8ccc(-c9ccccc9)cc8)cc(-c8ccc(NC(=O)Nc9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)n7)cc6)cc5C4=O)cc3)ccc3ccccc23)cc1,302.0,P433338,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(Oc7ccccc7-c7ccccc7Oc7ccc(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)n2)cc1,249.0,P433352,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(-c7cc(-c8ccc(-c9ccccc9)cc8)cc(-c8ccc(NC(=O)Nc9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)n7)cc6)cc5C4=O)cc3)n2)cc1,272.0,P433353,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(NC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5C4=O)cc3)n2)cc1,243.0,P433354,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6cccc(NC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)n6)cc5C4=O)cc3)n2)cc1,248.0,P433355,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6cccc7c(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cccc67)cc5C4=O)cc3)n2)cc1,254.0,P433356,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(Oc7ccc(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)n2)cc1,241.0,P433357,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas, Polyimines"
+*C(CC)COC(=O)NCCCCCCNC(=O)OCC(CC)n1c(=O)c2cc3c(=O)n(*)c(=O)c3cc2c1=O,61.0,P433434,"Polyimides/thioimides, Polyurethanes/thiourethanes"
+*c1cccc(P(C)(=O)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(C(C)(C)c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5)cc4C3=O)c2)c1,211.0,P433447,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(C)(=O)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(C(c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)(C(F)(F)F)C(F)(F)F)cc5)cc4C3=O)c2)c1,204.0,P433448,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(C)(=O)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5c(Br)cc(C(C)(C)c6cc(Br)c(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)c(Br)c6)cc5Br)cc4C3=O)c2)c1,191.0,P433449,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(C)(=O)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(P(=O)(c6ccccc6)c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5)cc4C3=O)c2)c1,201.0,P433450,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(=O)(c2ccccc2)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(C(C)(C)c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5)cc4C3=O)c2)c1,220.0,P433451,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(=O)(c2ccccc2)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(C(c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)(C(F)(F)F)C(F)(F)F)cc5)cc4C3=O)c2)c1,214.0,P433452,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(=O)(c2ccccc2)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5c(Br)cc(C(C)(C)c6cc(Br)c(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)c(Br)c6)cc5Br)cc4C3=O)c2)c1,201.0,P433453,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*c1cccc(P(=O)(c2ccccc2)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5ccc(P(=O)(c6ccccc6)c6ccc(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)cc6)cc5)cc4C3=O)c2)c1,218.0,P433454,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+*C(CC(C)C)C(=O)Nc1ccc(Oc2ccc(NC(=O)Nc3ccc(Cc4ccc(NC(=O)Nc5ccc(Oc6ccc(NC(=O)C(CC(C)C)n7c(=O)c8cc9c(=O)n(*)c(=O)c9cc8c7=O)cc6)cc5)cc4)cc3)cc2)cc1,181.4,P433548,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyureas/thioureas"
+*C(CC(C)C)C(=O)Nc1ccc(Oc2ccc(NC(=O)NCC3(C)CC(NC(=O)Nc4ccc(Oc5ccc(NC(=O)C(CC(C)C)n6c(=O)c7cc8c(=O)n(*)c(=O)c8cc7c6=O)cc5)cc4)CC(C)(C)C3)cc2)cc1,147.5,P433551,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyureas/thioureas"
+*c1ccc2c(c1)C(=O)N(c1cc(NC(=O)OCCN(CCOC(=O)Nc3cc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)ccc3C)c3ccc(/N=N/c4ccc([N+](=O)[O-])cc4)cc3)ccc1C)C2=O,196.0,P433607,"Polyimides/thioimides, Polyurethanes/thiourethanes, Polyimines"
+*Nc1cccc(NC(=O)c2cccc(C(=O)Nc3ccc(C(=O)NC(*)=S)cc3)c2)c1,270.0,P433648,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*Nc1cccc(NC(=O)c2ccc(C(=O)Nc3ccc(C(=O)NC(*)=S)cc3)cc2)c1,273.0,P433649,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*Nc1cccc(NC(=O)CCCCC(=O)Nc2ccc(C(=O)NC(*)=S)cc2)c1,267.0,P433650,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*Nc1cccc(NC(=O)CCCCCCCCC(=O)Nc2ccc(C(=O)NC(*)=S)cc2)c1,265.0,P433651,"Polyimides/thioimides, Polyamides/thioamides, Polyureas/thioureas"
+*C(=S)Nc1ccc(Oc2ccc(NC(=S)n3c(=O)c4cc5c(=O)n(*)c(=O)c5cc4c3=O)cc2)cc1,265.0,P433703,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*C(=S)Nc1ccc(Oc2ccc(NC(=S)N3C(=O)c4ccc(C(=O)c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2)cc1,262.0,P433704,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas, Polyketones/thioketones"
+*C(=S)Nc1ccc(Oc2ccc(NC(=S)N3C(=O)c4ccc(C(c5ccc6c(c5)C(=O)N(*)C6=O)(C(F)(F)F)C(F)(F)F)cc4C3=O)cc2)cc1,260.0,P433705,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+*CC(OC(=O)C(Cc1ccccc1)NC(=O)OC(C)(C)C)C(COC(=O)O*)OC(=O)C(Cc1ccccc1)NC(=O)OC(C)(C)C,82.4,P450062,Polycarbonates/thiocarbonates
+*CC(OC(=O)C(CC(C)C)NC(=O)OCc1ccccc1)C(COC(=O)O*)OC(=O)C(CC(C)C)NC(=O)OCc1ccccc1,50.9,P450063,Polycarbonates/thiocarbonates
