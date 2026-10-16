@@ -240,6 +240,24 @@ See `data/models/metrics.json` for the exact generated values.
 
 ## Run
 
+### Setup from a fresh clone
+
+The trained model bundles (`data/models/*.joblib`) are **not** in the
+repository: `tg_model.joblib` is about 120 MB, above GitHub's 100 MB per-file
+limit. Rebuild them once after cloning:
+
+```powershell
+pip install -r requirements.txt
+python train_models.py --trees 500
+python train_public_thermal_models.py
+```
+
+`train_models.py` also reads `data/training/tg_polymers_extended.csv`, which is
+already in the repository, so no network access is needed for those two steps
+unless you want to refresh the raw downloads with `build_data.py`.
+
+### Start the server
+
 Double-click:
 
 ```text
